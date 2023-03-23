@@ -3,3 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "DetMCD"]
+	path = DetMCD
+	url = https://github.com/cran/DetMCD
+	shallow = true
+	registered = true
+[submodule "DetR"]
+	path = DetR
+	url = https://github.com/cran/DetR
+	shallow = true
+	registered = true
+[submodule "FastPCS"]
+	path = FastPCS
+	url = https://github.com/cran/FastPCS
+	shallow = true
+	registered = true
+[submodule "FastRCS"]
+	path = FastRCS
+	url = https://github.com/cran/FastRCS
+	shallow = true
+	registered = true
