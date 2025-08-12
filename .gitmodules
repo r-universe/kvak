@@ -5,9 +5,6 @@
 [submodule "DetMCD"]
 	path = DetMCD
 	url = https://github.com/cran/DetMCD
-[submodule "DetR"]
-	path = DetR
-	url = https://github.com/cran/DetR
 [submodule "FastPCS"]
 	path = FastPCS
 	url = https://github.com/cran/FastPCS
